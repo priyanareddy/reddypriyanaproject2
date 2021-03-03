@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	padding:0;
+	margin:0;
+}
+#div1 {
+ position: absolute;
+  left: 556px;
+  top: 762px;
+  width: 100px;
+  height: 150px;
+  z-index: 2;
+}
+
+#drag1{
+	position:absolute;	
+	left:1000 px;
+	top: 600 px;	
+	z-index: 2;
+}
+.buthurry{
+  position: absolute;
+  left: 833px;
+  top: 814px;
+  width: 440px;
+  height: 220px;
+  z-index: 3;
+}
+
+
+

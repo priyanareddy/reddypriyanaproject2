@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+.yes{
+	position:absolute;
+	left:900px;
+	top:875px;
+	font-size: 50px;
+	font-family: "courier";
+}
+.no{
+	position:absolute;
+	left:1250px;
+	top:875px;
+	font-size: 50px;
+	font-family: "courier";
+}

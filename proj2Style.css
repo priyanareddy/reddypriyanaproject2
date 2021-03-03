@@ -1,0 +1,69 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+.first{
+	color:black;
+	font-size: 50px;
+	font-family:"courier new";
+}
+
+.back {
+  background-image: url("../Layer 2.png");
+  position: absolute;
+  left: 163px;
+  top: 240px;
+  width: 1330px;
+  height: 1196px;
+  z-index: 1;
+}
+.plus {
+  background-image: url("../Layer 3.png");
+  position: absolute;
+  left: 1282px;
+  top: 52px;
+  width: 225px;
+  height: 552px;
+  z-index: 2;
+}
+.minus {
+  background-image: url("../Layer 4.png");
+  position: absolute;
+  left: 124px;
+  top: 881px;
+  width: 125px;
+  height: 20px;
+  z-index: 3;
+	
+}
+body {margin:0; padding:0
+}
+.button{
+	position: absolute;
+	top:100px;
+	color:black;
+	font-family: "courier new";
+	font-size: 30px;
+}
+.minussign{
+	text-decoration:none;
+	color: red;
+}
+.plussign{
+	text-decoration:none;
+	color: red;
+}
+#sectionname{
+	position: absolute;
+	display:none;
+	left:5px;
+	top:150px;
+	color:red;
+	font-family:"courier new";
+	font-size: 30px;
+	word-wrap: break-word;
+	width:640px;
+}
